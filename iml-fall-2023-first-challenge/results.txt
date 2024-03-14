@@ -1,0 +1,27 @@
+>> DECISION TREE
+>1<
+best : 6 depth , 7 split , 15 params 
+df mean of null values 
+One-hot encoding
+Forward selection
+
+Tried
+- Feature Importance (0.845) X
+- removing null
+
+TRY 
+Data processing/Feature engineering :
+    One-hot encoding
+    Scaling/Normalisation
+    Feature Importance
+    Forward/Backward Selection
+    Label Encoding
+
+ missing values:
+    Removed
+    Simple Imputation
+    KNN Imputation
+
+>> KNN 
+
+>> NAIVE BAYES
